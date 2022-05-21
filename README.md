@@ -1,6 +1,5 @@
 # NLP Thesis ELTE
 
-Title: 
 NLP: Sentiment analysis on product reviews at Amazon
 
 Models: 
