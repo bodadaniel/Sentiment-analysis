@@ -1,4 +1,4 @@
-# NLP Thesis ELTE
+# NLP Thesis ELTE AI
 
 ## Title
 
